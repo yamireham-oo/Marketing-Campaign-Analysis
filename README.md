@@ -38,4 +38,4 @@ Key Insights:
   
 - Facebook, Instagram, and TikTok trail behind both in revenue and ROAS
   
--By country: Saudi Arabia is the only High-performing market, Bahrain is Low, and the rest fall in the Medium range
+- By country: Saudi Arabia is the only High-performing market, Bahrain is Low, and the rest fall in the Medium range
