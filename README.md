@@ -1,6 +1,10 @@
 # Marketing-Campaign-Analysis
 Power BI dashboard tracking revenue, ad spend, and ROAS by channel, with revenue performance by country.
 
+Dashboard Preview
+<img width="964" height="532" alt="Campaign Analysis" src="https://github.com/user-attachments/assets/93e32174-6abc-4b40-bd26-48bf081025b9" />
+
+
 Tools: Power Query · Power BI · DAX
 
 Cards:
